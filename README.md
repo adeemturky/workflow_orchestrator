@@ -13,7 +13,7 @@
 ## Full Reflection Document
 
 <iframe 
-src="templates/Assignment_Reflection.pdf" 
+src="Assignment_Reflection.pdf" 
 width="100%" 
 height="800px">
 </iframe>
@@ -21,7 +21,7 @@ height="800px">
 ---
 
 📄 If the PDF does not appear, open it here:  
-[Open PDF](templates/Assignment_Reflection.pdf)
+[Open PDF](Assignment_Reflection.pdf)
 
 ---
 
