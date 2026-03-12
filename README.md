@@ -1,4 +1,4 @@
-# Workflow Orchestrator - Using Reflection
+# Workflow Orchestrator - Reflection
 ## Using AISA framework
 ![Preview](assets/assignment_reflection.png)
 ![Preview](assets/assignment_reflection2.png)
