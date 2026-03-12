@@ -1,8 +1,29 @@
 # Workflow Orchestrator - Reflection
+
 ## Using AISA framework
-![Preview](assets/assignment_reflection.png)
-![Preview](assets/assignment_reflection2.png)
 
-📄 [Continue reading as PDF](assignment_reflection.pdf)
+### Preview
 
-*source: https://zenodo.org/records/18161880*
+![Reflection Page 1](assets/assignment_reflection.png)
+
+![Reflection Page 2](assets/assignment_reflection2.png)
+
+---
+
+## Full Reflection Document
+
+<iframe 
+src="templates/Assignment_Reflection.pdf" 
+width="100%" 
+height="800px">
+</iframe>
+
+---
+
+📄 If the PDF does not appear, open it here:  
+[Open PDF](templates/Assignment_Reflection.pdf)
+
+---
+
+**Source:**  
+https://zenodo.org/records/18161880
